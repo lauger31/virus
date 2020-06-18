@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 import numpy as np
 import matplotlib.pyplot as plt
+#simple epidemic model
+
 
 Ndays3=90
 Ndays2=60
